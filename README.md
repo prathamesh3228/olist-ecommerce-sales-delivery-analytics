@@ -27,6 +27,7 @@ It aims to identify revenue trends, high-performing product categories, customer
 4. Which customer states generate the highest revenue?
 5. Which product categories contribute the most to revenue?
 6. What is the on-time delivery percentage?
+   
 <img width="592" height="334" alt="Sales Overview screenshot" src="https://github.com/user-attachments/assets/f8c63764-1ccd-483a-a96c-dfe4b10a2cc2" />
 
 # 2. Delivery Performance
@@ -35,6 +36,7 @@ It aims to identify revenue trends, high-performing product categories, customer
 9. Which states have the highest number of late orders?
 10. What is the average delay in days for late deliveries?
 11. How do customer review scores differ between on-time and late deliveries?
+    
 <img width="593" height="332" alt="Delivery Performance screenshot" src="https://github.com/user-attachments/assets/87d26fdd-f170-4acf-af8b-e97031902f0a" />
 
 # 3. Customer Insights
@@ -44,6 +46,7 @@ It aims to identify revenue trends, high-performing product categories, customer
 15. What is the average revenue per customer?
 16. Which states have the highest customer counts?
 17. Which states have the highest number of repeat customers?
+    
 <img width="593" height="335" alt="Customer Insights screenshot" src="https://github.com/user-attachments/assets/948ea0ba-d8f5-454b-8f48-ab02d3dec3ef" />
 
 # 4. Product Performance
@@ -52,6 +55,7 @@ It aims to identify revenue trends, high-performing product categories, customer
 20. Which product categories receive the highest number of orders?
 21. What percentage of total revenue comes from freight charges?
 22. What is the average product price?
+    
 <img width="591" height="332" alt="Product Perormance screenshot" src="https://github.com/user-attachments/assets/9fd1186c-adec-4156-bbbe-d2c6d03113ab" />
 
 ## Project Process
