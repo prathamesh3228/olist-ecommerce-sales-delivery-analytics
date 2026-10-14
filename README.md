@@ -39,3 +39,26 @@ It aims to identify revenue trends, high-performing product categories, customer
 20. Which product categories receive the highest number of orders?
 21. What percentage of total revenue comes from freight charges?
 22. What is the average product price?
+## Project Process
+# 1. Data Collection
+Collected the Brazilian E-Commerce Public Dataset by Olist, containing information about orders, customers, products, payments, reviews, and delivery.
+# 2. Data Import and Storage
+Imported the CSV datasets into MySQL and organized the data into relational tables for structured analysis.
+# 3. Data Cleaning and Validation
+Checked data consistency, missing values, duplicate records, and relationships between tables to improve data reliability.
+# 4. SQL-Based Data Preparation
+Used SQL queries, joins, aggregations, and analytical views to prepare data for reporting. Created a Power BI analysis view to combine order-level information while avoiding revenue duplication caused by multiple order items, payments, and reviews.
+# 5. Power BI Integration
+Connected Power BI to MySQL and imported the prepared analytical data into the reporting environment.
+# 6. DAX Measures and KPI Development
+Created DAX measures to calculate important business metrics, including total revenue, total orders, average order value, on-time delivery percentage, repeat customer rate, average revenue per customer, and product performance indicators.
+# 7. Interactive Dashboard Development
+Developed four dashboard pages:
+- **Sales Overview:** Revenue trends, orders, and state-wise sales analysis.
+- **Delivery Performance:** Delivery time, late orders, and customer review analysis.
+- **Customer Insights:** Repeat customers, customer distribution, and customer spending.
+- **Product Performance:** Product category revenue, order volume, average product price, and freight analysis.
+# 8. Data Visualization and Analysis
+Used KPI cards, bar charts, line charts, donut charts, and interactive slicers to make business performance easier to understand.
+# 9. Validation and Final Review
+Reviewed KPI calculations, chart outputs, data relationships, and filter behavior to improve the accuracy and usability of the dashboard.
