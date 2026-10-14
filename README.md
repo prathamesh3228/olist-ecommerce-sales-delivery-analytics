@@ -4,12 +4,19 @@ The objective of this project is to analyze Brazilian e-commerce data using MySQ
 It aims to identify revenue trends, high-performing product categories, customer repeat-purchase patterns, and delivery delays while presenting complex transactional data in a clear, actionable, and business-oriented format.
 ## Dataset used
 - a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/olist_customers_dataset.csv">Dataset</a>
+
 - a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/olist_order_items_dataset.csv">Dataset</a>
+
 - a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/olist_order_payments_dataset.csv">Dataset</a>
+
 - a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/olist_order_reviews_dataset.csv">Dataset</a>
+
 - a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/olist_orders_dataset.csv">Dataset</a>
+
 - a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/olist_products_dataset.csv">Dataset</a>
+
 - a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/olist_sellers_dataset.csv">Dataset</a>
+
 - a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/product_category_name_translation.csv">Dataset</a>
 
 ## Questions — Olist E-Commerce Project
@@ -40,6 +47,12 @@ It aims to identify revenue trends, high-performing product categories, customer
 21. What percentage of total revenue comes from freight charges?
 22. What is the average product price?
 - Dashboard Interaction <a href<"https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/Sales%20Overview%20screenshot.png">View Dashboard</a>
+
+- Dashboard Interaction <a href<"https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/Delivery%20Performance%20screenshot.png">View Dashboard</a>
+
+- Dashboard Interaction <a href<"https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/Customer%20Insights%20screenshot.png">View Dashboard</a>
+
+- Dashboard Interaction <a href<"https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/Product%20Perormance%20screenshot.png">View Dashboard</a>
 ## Project Process
 # 1. Data Collection
 Collected the Brazilian E-Commerce Public Dataset by Olist, containing information about orders, customers, products, payments, reviews, and delivery.
