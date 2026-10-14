@@ -39,6 +39,7 @@ It aims to identify revenue trends, high-performing product categories, customer
 20. Which product categories receive the highest number of orders?
 21. What percentage of total revenue comes from freight charges?
 22. What is the average product price?
+- Dashboard Interaction <a href<"https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/Sales%20Overview%20screenshot.png">View Dashboard</a>
 ## Project Process
 # 1. Data Collection
 Collected the Brazilian E-Commerce Public Dataset by Olist, containing information about orders, customers, products, payments, reviews, and delivery.
