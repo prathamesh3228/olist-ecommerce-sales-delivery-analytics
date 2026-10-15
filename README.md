@@ -81,3 +81,35 @@ Developed four dashboard pages:
 Used KPI cards, bar charts, line charts, donut charts, and interactive slicers to make business performance easier to understand.
 # 9. Validation and Final Review
 Reviewed KPI calculations, chart outputs, data relationships, and filter behavior to improve the accuracy and usability of the dashboard.
+## Project Insights
+
+The Olist E-Commerce Sales & Delivery Analytics project provides insights into sales performance, delivery efficiency, customer purchasing behavior, and product category performance.
+
+### 1. Sales Performance Analysis
+- Analyzed monthly revenue trends to understand changes in sales performance over time.
+- Identified high-revenue customer states to understand geographical sales distribution.
+- Evaluated total revenue, order volume, and Average Order Value (AOV) to assess overall business performance.
+- Compared product category revenue to identify important revenue-generating categories.
+
+### 2. Delivery Performance Analysis
+- Evaluated on-time delivery percentage and average delivery duration to assess delivery efficiency.
+- Analyzed late orders and identified customer states with higher late-delivery volumes.
+- Calculated average delay days for late deliveries to understand delivery delays.
+- Examined customer review scores in relation to delivery status to explore the relationship between delivery experience and customer satisfaction.
+
+### 3. Customer Insights
+- Analyzed unique customers and distinguished repeat customers from one-time customers.
+- Calculated the repeat customer rate to understand customer retention behavior.
+- Evaluated average orders per customer and average revenue per customer.
+- Compared customer distribution, repeat purchasing behavior, and average customer revenue across states.
+
+### 4. Product Performance Analysis
+- Evaluated the number of product categories and their revenue contribution.
+- Compared category-level revenue and order volumes to identify product categories with stronger performance.
+- Calculated average product price to understand product-level sales characteristics.
+- Analyzed freight revenue and its percentage contribution to total revenue.
+
+### 5. Interactive Business Intelligence
+- Developed four Power BI dashboard pages for sales, delivery, customer, and product analysis.
+- Used DAX measures, KPI cards, charts, and interactive slicers to support business performance monitoring.
+- Integrated MySQL with Power BI to transform structured e-commerce data into interactive visual reports.
