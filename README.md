@@ -1,5 +1,5 @@
 # olist-ecommerce-sales-delivery-analytics
-## Project Objective
+# Project Objective
 The objective of this project is to analyze Brazilian e-commerce data using MySQL, SQL, Power BI, and DAX to generate meaningful business insights and support data-driven decision-making. The project focuses on evaluating sales performance, delivery efficiency, customer purchasing behavior, and product category performance through interactive dashboards and key performance indicators (KPIs).
 It aims to identify revenue trends, high-performing product categories, customer repeat-purchase patterns, and delivery delays while presenting complex transactional data in a clear, actionable, and business-oriented format.
 ## Dataset used
@@ -19,8 +19,8 @@ It aims to identify revenue trends, high-performing product categories, customer
 
 - a< href="https://github.com/prathamesh3228/olist-ecommerce-sales-delivery-analytics/blob/main/product_category_name_translation.csv">Dataset</a>
 
-## Questions — Olist E-Commerce Project
-# 1. Sales Overview
+# Questions — Olist E-Commerce Project
+### 1. Sales Overview
 1. What is the total revenue and total number of orders?
 2. What is the Average Order Value (AOV)?
 3. How does monthly revenue change over time?
@@ -30,7 +30,7 @@ It aims to identify revenue trends, high-performing product categories, customer
    
 <img width="592" height="334" alt="Sales Overview screenshot" src="https://github.com/user-attachments/assets/f8c63764-1ccd-483a-a96c-dfe4b10a2cc2" />
 
-# 2. Delivery Performance
+### 2. Delivery Performance
 7. What is the average delivery time?
 8. How many orders were delivered late?
 9. Which states have the highest number of late orders?
@@ -39,7 +39,7 @@ It aims to identify revenue trends, high-performing product categories, customer
     
 <img width="593" height="332" alt="Delivery Performance screenshot" src="https://github.com/user-attachments/assets/87d26fdd-f170-4acf-af8b-e97031902f0a" />
 
-# 3. Customer Insights
+### 3. Customer Insights
 12. How many unique customers are there?
 13. What percentage of customers are repeat customers?
 14. What is the average number of orders per customer?
@@ -49,7 +49,7 @@ It aims to identify revenue trends, high-performing product categories, customer
     
 <img width="593" height="335" alt="Customer Insights screenshot" src="https://github.com/user-attachments/assets/948ea0ba-d8f5-454b-8f48-ab02d3dec3ef" />
 
-# 4. Product Performance
+### 4. Product Performance
 18. How many product categories are available?
 19. Which product categories generate the highest revenue?
 20. Which product categories receive the highest number of orders?
@@ -58,7 +58,7 @@ It aims to identify revenue trends, high-performing product categories, customer
     
 <img width="591" height="332" alt="Product Perormance screenshot" src="https://github.com/user-attachments/assets/9fd1186c-adec-4156-bbbe-d2c6d03113ab" />
 
-## Project Process
+# Project Process
 ### 1. Data Collection
 Collected the Brazilian E-Commerce Public Dataset by Olist, containing information about orders, customers, products, payments, reviews, and delivery.
 ### 2. Data Import and Storage
@@ -81,7 +81,7 @@ Developed four dashboard pages:
 Used KPI cards, bar charts, line charts, donut charts, and interactive slicers to make business performance easier to understand.
 ### 9. Validation and Final Review
 Reviewed KPI calculations, chart outputs, data relationships, and filter behavior to improve the accuracy and usability of the dashboard.
-## Project Insights
+# Project Insights
 
 The Olist E-Commerce Sales & Delivery Analytics project provides insights into sales performance, delivery efficiency, customer purchasing behavior, and product category performance.
 
