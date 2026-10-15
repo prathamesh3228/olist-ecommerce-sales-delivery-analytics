@@ -113,3 +113,13 @@ The Olist E-Commerce Sales & Delivery Analytics project provides insights into s
 - Developed four Power BI dashboard pages for sales, delivery, customer, and product analysis.
 - Used DAX measures, KPI cards, charts, and interactive slicers to support business performance monitoring.
 - Integrated MySQL with Power BI to transform structured e-commerce data into interactive visual reports.
+
+# Final Conclusion
+
+The Olist E-Commerce Sales & Delivery Analytics project demonstrates how SQL, MySQL, Power BI, and DAX can be used to transform raw e-commerce data into meaningful business intelligence.
+
+By analyzing sales trends, delivery performance, customer purchasing patterns, and product category metrics, the project establishes a structured approach to understanding key aspects of e-commerce operations.
+
+The four-page interactive dashboard enables users to explore business performance through KPIs, visualizations, and filters, making complex transactional data easier to interpret. The integration of SQL-based data preparation with Power BI reporting also demonstrates practical skills in data handling, analytical modeling, KPI development, and data visualization.
+
+Overall, this project strengthened my practical understanding of data analytics and business intelligence while providing experience in translating business questions into measurable indicators and interactive analytical reports.
